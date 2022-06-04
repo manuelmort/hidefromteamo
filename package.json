@@ -1,0 +1,21 @@
+{
+  "name": "hidefromteamo",
+  "version": "1.0.0",
+  "description": "tft rankleaderboard second mass website update hidefromteamo2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "npm",
+    "node",
+    "react",
+    "axios"
+  ],
+  "author": "Manuel Morteo",
+  "license": "ISC",
+  "dependencies": {
+    "concurrently": "^7.2.1",
+    "nodemon": "^2.0.16"
+  }
+}
